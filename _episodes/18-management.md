@@ -15,7 +15,7 @@ keypoints:
 - "La respuesta a una violación del Código de Conducta en un taller está sujeta a la discreción del instructor, pero todas las violaciones deben ser reportadas a los Carpentries para su seguimiento."
 
 ---
-## Nunca Enseñes en Soledad: Cómo Ser una Co-Instructora
+## Nunca Enseñes en Soledad: ¿Cómo ser una co-instructora?
 
 La mejor parte de gestionar una clase para un taller de Carpentries es que ¡nunca deberás
 enfrentarte a los problemas en soledad! Tu co-instructora, tus ayudantes y la anfitriona 
@@ -44,7 +44,7 @@ Reflexionar sobre cómo trabajarán juntas con tu co-instructora puede sacar lo 
 de esta relación de apoyo y hacer la diferencia entre un taller bueno y uno grandioso,
 tanto para ti como para tus alumnos.
 
-> ## Cómo Ayudar
+> ## ¿Cómo Ayudar?
 >
 > Muchas personas no se sienten cómodas enseñando pero desean y son capaces de brindar
 > ayuda en la clase. Las llamamos "ayudantes".
