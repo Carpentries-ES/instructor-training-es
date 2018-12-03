@@ -18,7 +18,8 @@ keypoints:
 ## Nunca Enseñes en Soledad: Cómo Ser una Co-Instructora
 
 La mejor parte de gestionar una clase para un taller de Carpentries es que ¡nunca deberás
-enfrentarte a los problemas en soledad! Tu co-instructora, tus ayudantes y la anfitriona estarán allí para acompañarte.
+enfrentarte a los problemas en soledad! Tu co-instructora, tus ayudantes y la anfitriona 
+estarán allí para acompañarte.
 *Co-enseñar* describe cualquier situación en la que dos docentes trabajan juntas
 en el mismo aula. *[Interactions][worldcat-interactions]* de Friend y Cook describe
 múltiples formas de hacerlo; nosotros utilizamos los siguientes métodos con mayor frecuencia:
@@ -129,106 +130,113 @@ satisfecha estarás por ayudar a alguien a entender cómo funciona un bucle, o c
 decepcionada por no lograr instalar el software en la computadora de un alumno, que
 la persona con la cuál has dado clase.
 
-## Managing a Diverse Classroom
+## Gestionando un aula diversa
 
-Although our workshops are targeted at novices, every workshop
-will have participants from a variety of backgrounds and technical
-skill levels. Some may be at the novice level in one technology (e.g. git),
-but competent or even expert in another (e.g. R). As an instructor,
-you will need to be attentive to this diversity in your learners' prior skill level,
-and adjust your instruction appropriately. This is one of the most difficult things
-instructors experience when running a workshop.
+Aunque nuestros talleres están dirigidos a novatos, cada edición tiene participantes con
+una variedad de antecedentes y niveles de habilidad. Algunas serán novatas en una
+tecnología (por ejemplo, git) pero competentes o incluso expertas en otra (como R).
+Como instructora, necesitarás estar atenta a esta diversidad en el nivel de habilidades
+previas de tus estudiantes y ajustar tu instrucción apropiadamente. Esta es una de las
+cosas más difíciles que experimentan las instructoras cuando ofrecen un taller.
 
-> ## What Are the Challenges?
-> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with
-> a partner and put your thoughts in the Etherpad.
+> ## ¿Cuáles son los desafíos?
+> ¿Cuáles son algunos de los desafíos que podrías esperar cuando enseñes a estudiantes
+> con un rango amplio de experticia? Discute con una compañera y pongan sus ideas en
+> el Etherpad.
 >
-> This discussion should take about 10 minutes.
+> Esta discusión debería tomar unos 10 minutos.
 {: .challenge}
 
-Here are some strategies Carpentries
-instructors have generated to deal with this issue:
+Aquí hay algunas estrategias que las instructores de Carpentries
+han generado para lidiar con esta situación:
 
-*   Before running a workshop,
-    communicate its level clearly to everyone who's thinking of signing up
-    by describing not only the topics that will be covered (e.g. plotting in R), but
-    also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you're upfront with participants that you'll be spending time learning how `for` loops work, more
-    advanced learners are less likely to sign up.
-*   When asking learners to complete exercises, give "beginner" and "advanced" options.
-    Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
-*   Ask more advanced learners to help people next to them.
-    They'll learn from answering their peers' questions
-    (since it will force them to think about things in new ways).
-*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices
-    and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
-    with by helpers or the co-instructor in the Etherpad.
-*   The helpers and the instructor who isn't teaching the particular episode
-    should keep an eye out for learners who are falling behind
-    and intervene early
-    so that they don't become frustrated and give up.
+*   Antes de dar un taller,
+    comunica su nivel con claridad a todo aquel que esté pensando en inscribirse,
+    describiendo no sólo los tópicos que serán cubiertos (p. ej. graficar en R), sino 
+    también las habilidades concretas que las estudiantes adquirirán al finalizar el 
+    taller (es decir, los objetivos de aprendizaje). Si eres honesta desde el principio 
+    acerca de que pasarán un tiempo aprendiendo sobre cómo funcionan los bucles `for`,
+    es menos probable que se inscriban estudiantes más avanzados.
+*   Al proponer la resolución de ejercicios, ofrece opciones "introductorias" y
+    "avanzadas". Los estudiantes que terminen con el ejercicio introductorio pueden
+    enfrentar otro desafío y no se aburrirán.
+*   Pide a las estudiantes más avanzadas que ayuden a quienes tienen cerca. Aprenderán
+    al responder las preguntas de sus pares, pues los forzará a pensar de nuevas
+    maneras.
+*   Cuida que las estudiantes más entusiastas no controlen la conversación, ya que esto
+    tiende a alienar a las novatas y consume tiempo de clase valioso. Las preguntas
+    avanzadas y la discusión pueden reservarse respetuosamente para los recreos, o ser
+    manejadas por ayudantes o la co-instructora en el Etherpad.
+*   Las ayudantes y la instructora que no están enseñando un episodio en particular
+    deben mantenerse atentas a los estudiantes que se estén retrasando e intervenir en
+    forma temprana para impedir que se frustren y abandonen.
 
-The most important thing is to accept that
-no class can possibly meet everyone's individual needs.
-If the instructor slows down to accommodate two people who are struggling,
-the other 38 are not being well served.
-Equally,
-if she spends a few minutes talking about an advanced topic because two learners are bored,
-the 38 who don't understand it will feel left out.
-All we can do is tell our learners what we're doing and why,
-and hope that they'll understand.
+Lo más importante es aceptar que ninguna clase puede satisfacer
+las necesidades individuales de todos los participantes.
+Si la instructora va más despacio para acomodarse a dos personas que
+están teniendo dificultades, las otras 38 no serán bien atendidas.
+Del mismo modo, si dedica unos minutos a hablar de un tópico avanzado
+porque dos estudiantes están aburridos, los 38 que no lo comprenden
+se sentirán dejados de lado.
+Todo lo que podemos hacer es contar a nuestros estudiantes qué estamos
+haciendo y por qué, y esperar que puedan comprenderlo.
 
 
-> ## Learners Use Their Own Machines
-> Learners tell us that it is important to them to leave the workshop
-> with their own machine set up to do real work.  We therefore continue
-> to teach on all three major platforms (Linux, Mac OS X, and Windows),
-> even though it would be simpler to require learners to use just one.
+> ## Las Estudiantes Usan sus Propias Máquinas
+> Las estudiantes nos cuentan que es importante para ellas concluir
+> el taller con su máquina configurada para hacer trabajo real. Por
+> lo tanto, continuamos enseñando en las tres plataformas principales
+> (Linux, Mac OS X y Windows), aunque sería más simple exigir a las
+> estudiantes que usen sólo una.
 >
-> We have experimented with virtual machines (VMs) on learners'
-> computers to reduce installation problems, but those introduce
-> problems of their own: older or smaller machines simply aren't fast
-> enough, and learners often struggle to switch back and forth between
-> two different sets of keyboard shortcuts for things like copying and
-> pasting.
+> Hemos experimentado con máquinas virtuales (VMs) en las computadoras
+> de las estudiantes para reducir problemas de instalación, pero esto
+> introdujo sus propios problemas: las máquinas viejas o más pequeñas
+> no son lo suficientemente rápidas, y las estudiantes suelen tener
+> dificultades para alternar entre dos conjuntos distintos de atajos
+> de teclado para tareas como copiar y pegar.
 >
-> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh]
-> (SSH) or web browser pages instead. This solves the installation
-> issues, but makes us dependent on host institutions' WiFi (which can be
-> of highly variable quality), and has the issues mentioned above with things
-> like keyboard shortcuts.
+> Algunos instructores usan [Servidores Privados Virtuales][vps] (VPS)
+> sobre conexiones [Secure Shell][ssh] (SSH) o en páginas de internet.
+> Esto resuelve los problemas de instalación, pero nos vuelve
+> dependientes de la conexión WiFi de la institución anfitriona (que
+> puede ser de calidad muy variable), y tiene los mismos problemas
+> presentados antes, como los atajos de teclado.
 {: .callout}
 
-## Code of Conduct Violations
+## Violaciones al Código de Conducta
 
-If you are an instructor, and believe that someone in a workshop has
-violated the Code of Conduct, you may warn them, ask them to
-apologize, and/or expel them, depending on the severity of the
-violation and whether or not you believe it was intentional.
+Si eres una instructora, y crees que alguna persona en tu taller ha
+violado el Código de Conducta, deberías advertirle, pedirle que se 
+disculpe y/o expulsarla, dependiendo de la severidad de la violación
+y según creas o no que ha sido intencional.
 
-The local workshop host is expected to help enforce the Code of Conduct and
-you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
-If you choose to settle the issue yourself, you should notify the workshop host
-of the issue in case s/he feels additional steps should be taken.
+Se espera que el anfitrión local del taller imponga el cumplimiento
+del Código de Conducta. Puedes pedirle que medie en un incidente si
+te sientes poco cómoda o no eres capaz de hacerlo tú misma. Si has
+elegido resolver el inconveniente tú misma, deberías notificar a la
+anfitriona del taller acerca de este problema, quien podrá decidir 
+que se tomen medidas adicionales.
 
-No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org)
-or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
-as soon as you can and let us know what happened so that we can follow-up
-with the workshop host and/or participants as needed.
+Sin importar lo que decidas hacer, por favor ponte en contacto tan
+pronto como puedas con el Comité del Código de Conducta de Carpentries
+escribiendo a [coc@carpentries.org](mailto:coc@carpentries.org) o con
+C. MacDonnell a la dirección [confidential@carpentries.org](mailto:confidential@carpentries.org).
+Infórmanos qué ocurrió y podremos seguir la situación con la
+anfitriona del taller y/o las participantes, según sea necesario.
 
-You also have the right as an instructor to walk out of a workshop
-if you feel that the participants or hosts are not supporting your
-attempts to enforce the Code of Conduct. Again, please contact us
-as soon as possible if this happens.
+Como instructora, también tienes el derecho de abandonar un taller
+si sientes que las participantes o la anfitriona no apoyan tus intentos
+por hacer cumplir el Código de Conducta. De nuevo, si esto ocurre,
+por favor contáctanos tan pronto como sea posible.
 
 
+Al finalizar la mañana, haz lo siguiente:
 
-At the end of the morning, do the following:
-
-> ## Minute Cards Revisited
+> ## Revisitando las tarjetas de feedback rápido
 >
-> Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/06-feedback/).
+> Usa tus notas adhesivas para escribir tarjetas de feedback rápido
+> según discutimos [ayer]({{ page.root }}/06-feedback/).
 {: .challenge}
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
